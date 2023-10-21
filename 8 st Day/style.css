@@ -1,0 +1,143 @@
+/* 
+font-family: 'Plus Jakarta Sans', sans-serif;
+500 
+800 
+*/
+
+/*****************
+***** PROFIL IMG **
+******************/
+
+.img__ {
+  margin-left: 1rem;
+  width: 4rem;
+}
+
+.img {
+  display: flex;
+}
+
+/*****************
+***** PROFIL INFO **
+******************/
+
+.mark__webber {
+  width: 60rem;
+  border-radius: 10px;
+  display: flex;
+  height: 6rem;
+  margin-bottom: 1rem;
+  gap: 2rem;
+  align-items: center;
+  background-color: hsl(210, 60%, 98%);
+}
+
+.name {
+  font-size: 1.4rem;
+  font-weight: 800;
+  margin-right: 0.6rem;
+  color: black;
+}
+
+.name__ p {
+  font-size: 1.2rem;
+  color: hsl(219, 14%, 63%);
+}
+
+.activited {
+  font-weight: 800;
+  color: hsl(219, 12%, 42%);
+  margin-left: 0.6rem;
+}
+
+.game {
+  color: hsl(219, 85%, 26%);
+  font-weight: 800;
+  margin-left: 0.6rem;
+}
+
+.name__ {
+  display: flex;
+  align-items: center;
+}
+
+.right-nav p {
+  font-size: 1.2rem;
+}
+
+.number {
+  background-color: hsl(219, 85%, 26%);
+  padding: 0.4rem 1.2rem;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.rizky__hasanuddin {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  width: 60rem;
+  border-radius: 10px;
+  height: 6rem;
+  margin-bottom: 1rem;
+}
+
+.paragraph {
+  margin-top: 11rem;
+  font-size: 1.2rem;
+  color: hsl(219, 14%, 63%);
+}
+
+.days {
+  margin-top: 0.4rem;
+}
+
+.chess__club__write {
+  font-size: 1.4rem;
+  width: 90%;
+  margin-left: 5rem;
+  margin-top: 2rem;
+  border: 1px solid gray;
+  padding: 2rem;
+}
+
+.paragraph__jacob {
+  font-size: 1.2rem;
+  color: hsl(219, 14%, 63%);
+}
+
+.red--ols {
+  background-color: hsl(1, 90%, 64%);
+  width: 0.2rem;
+  height: 0.2rem;
+  font-size: 0.8rem;
+  margin-left: 0.8rem;
+  color: hsl(1, 90%, 64%);
+  border-radius: 50%;
+}
+
+.jacob {
+  background-color: hsl(210, 60%, 98%);
+}
+
+.angela--red {
+}
+
+.kimberly {
+  margin-top: 10rem;
+}
+
+.chess__foto {
+  width: 4rem;
+  margin-left: 20rem;
+  margin-top: 2rem;
+}
+
+.kimberly__paragraph {
+  font-size: 1.2rem;
+  color: hsl(219, 14%, 63%);
+}
+
+.smith {
+  margin-top: 3rem;
+}
