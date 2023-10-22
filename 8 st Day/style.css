@@ -120,9 +120,6 @@ font-family: 'Plus Jakarta Sans', sans-serif;
   background-color: hsl(210, 60%, 98%);
 }
 
-.angela--red {
-}
-
 .kimberly {
   margin-top: 10rem;
 }
@@ -140,4 +137,18 @@ font-family: 'Plus Jakarta Sans', sans-serif;
 
 .smith {
   margin-top: 3rem;
+}
+
+.rizky__hasanuddin {
+  display: flex;
+  align-items: center;
+  align-self: center;
+}
+
+.nathan {
+  margin-top: 3.6rem;
+}
+
+.hidden {
+  display: none;
 }
